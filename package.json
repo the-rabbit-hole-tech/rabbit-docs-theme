@@ -59,11 +59,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/the-rabbit-hole-tech/docs-theme.git"
+    "url": "git+https://github.com/the-rabbit-hole-tech/rabbit-docs-theme.git"
   },
-  "homepage": "https://github.com/the-rabbit-hole-tech/docs-theme#readme",
+  "homepage": "https://github.com/the-rabbit-hole-tech/rabbit-docs-theme#readme",
   "bugs": {
-    "url": "https://github.com/the-rabbit-hole-tech/docs-theme/issues"
+    "url": "https://github.com/the-rabbit-hole-tech/rabbit-docs-theme/issues"
   },
   "scripts": {
     "build": "tsdown",

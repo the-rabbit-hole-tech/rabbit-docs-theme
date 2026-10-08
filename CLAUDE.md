@@ -115,7 +115,7 @@ for the full action-release sequence.
   auto-created `github-pages` environment allows tag refs. Once, alongside enabling Pages
   (Settings -> Pages -> Source = GitHub Actions), add a tag policy, then re-run the failed Deploy
   job (no need to re-cut the tag):
-  `gh api -X POST repos/the-rabbit-hole-tech/docs-theme/environments/github-pages/deployment-branch-policies -f name='v*' -f type=tag`
+  `gh api -X POST repos/the-rabbit-hole-tech/rabbit-docs-theme/environments/github-pages/deployment-branch-policies -f name='v*' -f type=tag`
 - Docusaurus MDX 3: avoid the `## Heading {#custom-id}` explicit-id syntax (it fails to compile);
   rely on the auto-generated slugs.
 
