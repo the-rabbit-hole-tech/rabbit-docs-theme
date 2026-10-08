@@ -1,6 +1,6 @@
 # Changelog
 
-## v1.1.0 - 2026-09-30
+## v1.1.0 - 2026-10-08
 
 ### What Changed 👀
 
@@ -17,7 +17,7 @@
 
 ### Extra
 
-**Full Changelog**: https://github.com/the-rabbit-hole-tech/docs-theme/compare/v1.0.0...v1.1.0
+**Full Changelog**: https://github.com/the-rabbit-hole-tech/rabbit-docs-theme/compare/v1.0.0...v1.1.0
 
 ## v1.0.0 - 2026-09-07
 
